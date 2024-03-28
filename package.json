@@ -22,5 +22,8 @@
     "eslint-plugin-prettier": "^4.0.0",
     "prettier": "^2.6.0",
     "serve": "^13.0.2"
+  },
+  "resolutions": {
+    "caniuse-lite": "1.0.30001522"
   }
 }
